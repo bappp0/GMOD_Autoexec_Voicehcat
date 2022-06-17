@@ -1,0 +1,4 @@
+alias voiceon "+voicerecord; alias togglevoice voiceoff"
+alias voiceoff "-voicerecord; alias togglevoice voiceon"
+alias togglevoice voiceon
+bind "MOUSE5" togglevoice
